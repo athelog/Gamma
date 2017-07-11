@@ -3,7 +3,7 @@
 
 %%
 
-videoFReader = vision.VideoFileReader('..\..\media\walk.mp4');
+videoFReader = vision.VideoFileReader('..\..\media\walk_aerial_2.mp4');
 videoPlayer = vision.VideoPlayer;
 
 detector = peopleDetectorACF;
@@ -29,6 +29,15 @@ while ~isDone(videoFReader)
        
        
    end
+   
+   %{
+   I = frame;
+   [bboxes,scores] = detect(detector,I);
+   I = insertObjectAnnotation(I,'rectangle',bboxes,scores);
+	figure
+    imshow(I)
+    title('Detected People and Detection Scores')
+   %}
    
 end
 
