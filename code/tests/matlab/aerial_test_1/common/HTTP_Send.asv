@@ -1,0 +1,24 @@
+import matlab.net.*
+import matlab.net.http.*
+
+%% Testing 
+
+HTTP_Send("dfd");
+
+
+%% Function definition
+
+
+%function to Send HTTP info
+function output = HTTP_Send(url_string)
+
+    r = RequestMessage;
+    uri = URI(url_string);
+    resp = send(r,uri);
+    output = resp.StatusCode
+
+end
+%end of function
+
+%%
+
