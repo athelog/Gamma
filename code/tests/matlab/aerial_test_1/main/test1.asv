@@ -12,34 +12,17 @@ figure('doublebuffer','on', ...
        'WindowStyle','modal');
 mTextBox = uicontrol('style','text');
 
+global t;
 t=text(.5,.5,datestr(now),'Hor','center');
 
-%globals
-count = 0;
-XPos = -999;
-YPos = -999;
+%objective globals
 
-%main loop
-while double(get(gcf,'CurrentCharacter'))~=27
-    
-    set(t,'String',datestr(now));
-    
-    count=count+1;
-    pause(1);
-    
-    %random location
-    XPos = randn;
-    YPos = randn;
-    X_Y_String = strcat(num2str(XPos),",",num2strYPos);
-    
-    
-    set(mTextBox,'String',X_Y_String);
-    
-end
 
-set(t,'String','Finished');
-set(gcf,'WindowStyle','normal');
+Type = "NONE";
 
+%% main loop
+
+Main();
 
 %%
 %HTTP_Send('http://localhost/gamma/engine/dBInterface.php?ActionDBToken=InsertDetectionRecord&Type=car2');
@@ -48,7 +31,24 @@ set(gcf,'WindowStyle','normal');
 
 function o = Main()
 
-    %while
+
+    %execution loop
+    while double(get(gcf,'CurrentCharacter'))~=27
+
+        set(t,'String',datestr(now));
+
+        count=count+1;
+        pause(1);
+
+        %random location    
+        X_Y_String = GenerateRandomLocationString();    
+
+        set(mTextBox,'String',X_Y_String);
+
+    end
+
+    set(t,'String','Finished');
+    set(gcf,'WindowStyle','normal');
     
     
 
