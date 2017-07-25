@@ -3,11 +3,16 @@
 % a table specifying bounding boxes for several object categories.
 % The table was exported from the Training Image Labeler app.
 %%
-% Load positive samples.
-load('car_top_labelling_session_4.mat');
+% Load positive samples, labelling session.
+load('hb_top_labelingSession_1.mat');
+load('sedan_top_labelingSession_1.mat');
+load('van_top_labelingSession_1.mat');
 %%
 % Select the bounding boxes for stop signs from the table.
-positiveInstances = car26(:,1:2);
+%positiveInstances = test(:,1:2);
+positiveInstances_hb = hb(:,1:2);
+positiveInstances_sedan = sedan(:,1:2);
+positiveInstances_van = van(:,1:2);
 %%
 % Add the image directory to the MATLAB path.
 imDir = 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures';    
@@ -27,15 +32,31 @@ negativeImages = imageDatastore(negativeFolder);
  %trainCascadeObjectDetector('CarTopView.xml',positiveInstances, ...
   %  negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',5);
 
-  %6 stages works better
- trainCascadeObjectDetector('CarTopView.xml',positiveInstances, ...
-    negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',10);
+%% sedan top   
+  %7 stages works better
+ %trainCascadeObjectDetector('CarTopView.xml',positiveInstances, ...
+    %negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',7);
+
+%% hatchback top
+
+ trainCascadeObjectDetector('SedanTopView.xml',positiveInstances_sedan, ...
+    negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',8);
+
+ trainCascadeObjectDetector('HatchbackTopView.xml',positiveInstances_hb, ...
+    negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',8);
+
+ trainCascadeObjectDetector('VanTopView.xml',positiveInstances_van, ...
+    negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',3);
+  
 %%
 % Use the newly trained classifier to detect a stop sign in an image.
-detector = vision.CascadeObjectDetector('CarTopView.xml');
+detector_sedan = vision.CascadeObjectDetector('SedanTopView.xml'); %sedan top
+detector_hb = vision.CascadeObjectDetector('HatchbackTopView.xml'); %hatback top
+detector_van = vision.CascadeObjectDetector('VanTopView.xml'); %hatback top
+
 %%
 % Read the test image.
-img = imread('car_top_view_2.jpg');
+%img = imread('car_top_view_2.jpg');
 %img = imread('car_top_view_5.jpg');
 %img = imread('car_top_view_6.jpg');
 %img = imread('car_top_view_7.jpg');
@@ -50,13 +71,21 @@ img = imread('car_top_view_2.jpg');
 
 %%
 % Detect a stop sign.
-bbox = step(detector,img); 
+%bbox = step(detector,img);%org
+bbox_sedan = step(detector_sedan,img);
+bbox_hb = step(detector_hb,img);
+bbox_van = step(detector_van,img);
 %%
 % Insert bounding box rectangles and return the marked image.
- detectedImg = insertObjectAnnotation(img,'rectangle',bbox,'stop sign');
+ detectedImg_sedan = insertObjectAnnotation(img,'rectangle',bbox_sedan,'sedan');
+ detectedImg_hb = insertObjectAnnotation(img,'rectangle',bbox_hb,'hb');
+ detectedImg_van = insertObjectAnnotation(img,'rectangle',bbox_van,'van');
 %%
 % Display the detected stop sign.
-figure; imshow(detectedImg);
+figure; 
+%imshow(detectedImg_sedan);
+imshow(detectedImg_hb);
+%imshow(detectedImg_van);
 %%
 % Remove the image directory from the path.
 rmpath(imDir); 
