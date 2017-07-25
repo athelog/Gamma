@@ -7,7 +7,7 @@
 load('car_top_labelling_session_4.mat');
 %%
 % Select the bounding boxes for stop signs from the table.
-positiveInstances = car23(:,1:2);
+positiveInstances = car26(:,1:2);
 %%
 % Add the image directory to the MATLAB path.
 imDir = 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures';    
@@ -44,7 +44,7 @@ detector = vision.CascadeObjectDetector('CarTopView.xml');
 %img = imread('car_top_view_10.jpg');
 %img = imread('car_top_view_11.jpg');
 %img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_top_view_model_1.png');
-%img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_sedan_top_view.png'); %training image
+img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_sedan_top_view.png'); %training image
 
 
 
