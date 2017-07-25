@@ -35,7 +35,7 @@ negativeImages = imageDatastore(negativeFolder);
 detector = vision.CascadeObjectDetector('CarTopView.xml');
 %%
 % Read the test image.
-%img = imread('car_top_view_2.jpg');
+img = imread('car_top_view_2.jpg');
 %img = imread('car_top_view_5.jpg');
 %img = imread('car_top_view_6.jpg');
 %img = imread('car_top_view_7.jpg');
@@ -44,7 +44,7 @@ detector = vision.CascadeObjectDetector('CarTopView.xml');
 %img = imread('car_top_view_10.jpg');
 %img = imread('car_top_view_11.jpg');
 %img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_top_view_model_1.png');
-img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_sedan_top_view.png'); %training image
+%img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_sedan_top_view.png'); %training image
 
 
 
