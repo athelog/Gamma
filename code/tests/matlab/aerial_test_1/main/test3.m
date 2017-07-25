@@ -4,10 +4,10 @@
 % The table was exported from the Training Image Labeler app.
 %%
 % Load positive samples.
-load('car_top_labelling_session_2.mat');
+load('car_top_labelling_session_4.mat');
 %%
 % Select the bounding boxes for stop signs from the table.
-positiveInstances = car18(:,1:2);
+positiveInstances = car23(:,1:2);
 %%
 % Add the image directory to the MATLAB path.
 imDir = 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures';    
@@ -29,7 +29,7 @@ negativeImages = imageDatastore(negativeFolder);
 
   %6 stages works better
  trainCascadeObjectDetector('CarTopView.xml',positiveInstances, ...
-    negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',6);
+    negativeFolder,'FalseAlarmRate',0.1,'NumCascadeStages',10);
 %%
 % Use the newly trained classifier to detect a stop sign in an image.
 detector = vision.CascadeObjectDetector('CarTopView.xml');
@@ -43,7 +43,7 @@ detector = vision.CascadeObjectDetector('CarTopView.xml');
 %img = imread('car_top_view_9.jpg');
 %img = imread('car_top_view_10.jpg');
 %img = imread('car_top_view_11.jpg');
-img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_top_view_model_1.png');
+%img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_top_view_model_1.png');
 %img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_sedan_top_view.png'); %training image
 
 
