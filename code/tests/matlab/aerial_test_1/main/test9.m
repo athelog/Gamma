@@ -77,7 +77,7 @@ detector_suv = vision.CascadeObjectDetector('SuvTopView.xml'); %suv top
 
 %%
 % Read the test image.
-img = imread('car_top_view_2.jpg');
+%img = imread('car_top_view_2.jpg');
 %img = imread('car_top_view_4.jpg');
 %img = imread('car_top_view_5.jpg');
 %img = imread('car_top_view_6.jpg');
@@ -86,31 +86,43 @@ img = imread('car_top_view_2.jpg');
 %img = imread('car_top_view_9.jpg');
 %img = imread('car_top_view_10.jpg');
 %img = imread('car_top_view_11.jpg');
+%img = imread('car_top_view_14.jpg'); %
+
+%training images
 %img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_top_view_model_1.png');
 %img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_sedan_top_view.png'); %training image
+%img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_hatchback_top_view.png');
+img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\van_top_view.png');
+
 
 
 
 %%
-% Detect a stop sign.
 
+img_sedan = img;
+img_hb = img;
+img_van = img;
+img_suv = img;
+
+% Detect a stop sign.
 bbox_sedan = step(detector_sedan,img_sedan);
-bbox_hb = step(detector_hb,img);
-bbox_van = step(detector_van,img);
-bbox_suv = step(detector_suv,img);
+bbox_hb = step(detector_hb,img_hb);
+bbox_van = step(detector_van,img_van);
+bbox_suv = step(detector_suv,img_suv);
+
 %%
 % Insert bounding box rectangles and return the marked image.
- detectedImg_sedan = insertObjectAnnotation(img,'rectangle',bbox_sedan,'sedan');
- detectedImg_hb = insertObjectAnnotation(img,'rectangle',bbox_hb,'hb');
- detectedImg_van = insertObjectAnnotation(img,'rectangle',bbox_van,'van');
- detectedImg_suv = insertObjectAnnotation(img,'rectangle',bbox_suv,'suv');
+ detectedImg_sedan = insertObjectAnnotation(img_sedan,'rectangle',bbox_sedan,'sedan');
+ detectedImg_hb = insertObjectAnnotation(img_hb,'rectangle',bbox_hb,'hb');
+ detectedImg_van = insertObjectAnnotation(img_van,'rectangle',bbox_van,'van');
+ detectedImg_suv = insertObjectAnnotation(img_suv,'rectangle',bbox_suv,'suv');
 %%
 % Display the detected stop sign.
 figure; 
 
-imshow(detectedImg_sedan);
+%imshow(detectedImg_sedan);
 %imshow(detectedImg_hb);
-%imshow(detectedImg_van);
+imshow(detectedImg_van);
 %imshow(detectedImg_suv);
 %%
 % Remove the image directory from the path.
