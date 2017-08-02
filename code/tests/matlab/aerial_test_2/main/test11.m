@@ -11,7 +11,7 @@ load('front2_top_labelingSession.mat');
 
 %%
 % Select the bounding boxes for stop signs from the table.
-positiveInstances_front = front4(:,1:2);
+positiveInstances_front = front5(:,1:2);
 %%
 % Add the image directory to the MATLAB path.
 imDir = 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures';    
@@ -37,7 +37,7 @@ negativeImages = imageDatastore(negativeFolder_nocar);%
     %negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',5); %works
 
 trainCascadeObjectDetector('Front_Top_Top.xml',positiveInstances_front, ...
-    negativeImages,'FalseAlarmRate',0.2,'NumCascadeStages',5); %
+    negativeImages,'FalseAlarmRate',0.2,'NumCascadeStages',6); %
 
 
 %%
