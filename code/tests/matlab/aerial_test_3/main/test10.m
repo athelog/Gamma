@@ -5,13 +5,13 @@
 %% Load car positive samples, labelling session.
 
 % Sedan top 
-load('front4_top_labelingSession.mat');
+load('front_top_labelingSession.mat');
 
 
 
 %%
 % Select the bounding boxes for stop signs from the table.
-positiveInstances_front = top4(:,1:2);
+positiveInstances_front = front2(:,1:2);
 %%
 % Add the image directory to the MATLAB path.
 imDir = 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures';    
@@ -33,12 +33,8 @@ negativeImages = imageDatastore(negativeFolder_nocar);%
 % using HOG features.
 % NOTE: The command can take several minutes to run.
 
- %trainCascadeObjectDetector('Front_Top_Top.xml',positiveInstances_front, ...
-    %negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',5); %works
-
-trainCascadeObjectDetector('Front_Top_Top.xml',positiveInstances_front, ...
-    negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',7); %
-
+ trainCascadeObjectDetector('Front_Top_Top.xml',positiveInstances_front, ...
+    negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',5);
 
 %%
 % Use the newly trained classifier to detect a stop sign in an image.
@@ -56,15 +52,14 @@ detector_front = vision.CascadeObjectDetector('Front_Top_Top.xml'); % top
 %img = imread('car_top_view_8.jpg');
 %img = imread('car_top_view_9.jpg');
 %img = imread('car_top_view_10.jpg');
-img = imread('car_top_view_11.jpg');
-%img = imread('car_top_view_12.jpg');
+%img = imread('car_top_view_11.jpg');
 %img = imread('car_top_view_14.jpg'); %
 
 %training images
 
 %img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\general_detection\front_top.png');
 %img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\general_detection\front_top_2.png');
-%img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\general_detection\front_top_3.png');
+img = imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\general_detection\front_top_3.png');
 
 %img=imread('E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\sedan_models\sedan_hardroof_top_white_.png');
 
@@ -89,7 +84,7 @@ bbox_front = step(detector_front,img_front);
 
 %%
 % Insert bounding box rectangles and return the marked image.
-detectedImg_front = insertObjectAnnotation(img_suv,'rectangle',bbox_front,'top');
+detectedImg_front = insertObjectAnnotation(img_suv,'rectangle',bbox_front,'front');
 
  %detectedImg_sedan = insertObjectAnnotation(img_sedan,'rectangle',bbox_sedan,'sedan');
  %detectedImg_suv = insertObjectAnnotation(img_suv,'rectangle',bbox_suv,'suv'); 

@@ -5,13 +5,13 @@
 %% Load car positive samples, labelling session.
 
 % Sedan top 
-load('front4_top_labelingSession.mat');
+load('front5_top_labelingSession.mat');
 
 
 
 %%
 % Select the bounding boxes for stop signs from the table.
-positiveInstances_front = top4(:,1:2);
+positiveInstances_front = top3(:,1:2);
 %%
 % Add the image directory to the MATLAB path.
 imDir = 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures';    
@@ -56,7 +56,7 @@ detector_front = vision.CascadeObjectDetector('Front_Top_Top.xml'); % top
 %img = imread('car_top_view_8.jpg');
 %img = imread('car_top_view_9.jpg');
 %img = imread('car_top_view_10.jpg');
-img = imread('car_top_view_11.jpg');
+%img = imread('car_top_view_11.jpg');
 %img = imread('car_top_view_12.jpg');
 %img = imread('car_top_view_14.jpg'); %
 
@@ -89,7 +89,7 @@ bbox_front = step(detector_front,img_front);
 
 %%
 % Insert bounding box rectangles and return the marked image.
-detectedImg_front = insertObjectAnnotation(img_suv,'rectangle',bbox_front,'top');
+detectedImg_front = insertObjectAnnotation(img_suv,'rectangle',bbox_front,'front');
 
  %detectedImg_sedan = insertObjectAnnotation(img_sedan,'rectangle',bbox_sedan,'sedan');
  %detectedImg_suv = insertObjectAnnotation(img_suv,'rectangle',bbox_suv,'suv'); 
