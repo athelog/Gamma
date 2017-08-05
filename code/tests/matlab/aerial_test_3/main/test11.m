@@ -5,7 +5,7 @@
 %% Load car positive samples, labelling session.
 
 % Sedan top 
-load('front5_top_labelingSession.mat');
+load('front4_top_labelingSession.mat');
 
 
 
@@ -37,7 +37,7 @@ negativeImages = imageDatastore(negativeFolder_nocar);%
     %negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',5); %works
 
 trainCascadeObjectDetector('Front_Top_Top.xml',positiveInstances_front, ...
-    negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',7); %
+    negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',8); %
 
 
 %%
@@ -49,7 +49,7 @@ detector_front = vision.CascadeObjectDetector('Front_Top_Top.xml'); % top
 %%
 % Read the test image.
 %img = imread('car_top_view_2.jpg');
-%img = imread('car_top_view_4.jpg');
+img = imread('car_top_view_4.jpg');
 %img = imread('car_top_view_5.jpg');
 %img = imread('car_top_view_6.jpg');
 %img = imread('car_top_view_7.jpg');
