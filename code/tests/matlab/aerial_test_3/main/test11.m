@@ -49,8 +49,8 @@ detector_front = vision.CascadeObjectDetector('Front_Top_Top.xml'); % top
 %%
 % Read the test image.
 %img = imread('car_top_view_2.jpg');
-img = imread('car_top_view_4.jpg');
-%img = imread('car_top_view_5.jpg');
+%img = imread('car_top_view_4.jpg');
+img = imread('car_top_view_5.jpg');
 %img = imread('car_top_view_6.jpg');
 %img = imread('car_top_view_7.jpg');
 %img = imread('car_top_view_8.jpg');
@@ -58,6 +58,7 @@ img = imread('car_top_view_4.jpg');
 %img = imread('car_top_view_10.jpg');
 %img = imread('car_top_view_11.jpg');
 %img = imread('car_top_view_12.jpg');
+img = imread('car_top_view_13.jpg');
 %img = imread('car_top_view_14.jpg'); %
 
 %training images
