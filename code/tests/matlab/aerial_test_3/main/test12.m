@@ -6,12 +6,17 @@
 
 % Sedan top 
 load('far_top_labelingSession.mat');
+load('close_top_labelingSession.mat');
 
+%suv/truck
+load('truck_front_close_top_labelingSession.mat');
 
 
 %%
 % Select the bounding boxes for stop signs from the table.
-positiveInstances_front = top(:,1:2);
+positiveInstances_top = far(:,1:2);
+positiveInstances_top = close(:,1:2);
+positiveInstances_top = front(:,1:2);
 
 %%
 % Specify the foler for negative images.
@@ -53,16 +58,16 @@ negativeImages = imageDatastore(negativeFolder_nocar);%
 % using HOG features.
 % NOTE: The command can take several minutes to run.
 
- %trainCascadeObjectDetector('Front_Top_Top.xml',positiveInstances_front, ...
-    %negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',5); %works
+%trainCascadeObjectDetector('far.xml',positiveInstances_top, ...
+ %   negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
 
-%trainCascadeObjectDetector('Front_Top_Top.xml',positiveInstances_front, ...
-%    negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',8); %
-
+trainCascadeObjectDetector('close.xml',positiveInstances_top, ...
+    negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
 
 %%
 % Use the newly trained classifier to detect a stop sign in an image.
-detector_car = vision.CascadeObjectDetector('Front_Top_Top.xml'); % top
+%detector_car = vision.CascadeObjectDetector('far.xml'); % top
+detector_car = vision.CascadeObjectDetector('close.xml'); % top
 
 %% main flow
 
@@ -72,49 +77,20 @@ for k = 1:length(ImagesList)
 	fullFileName = fullfile(TestImagesFolder, baseFileName);
 	fprintf(1, 'Now reading %s\n', baseFileName);
   
-    img_car = img;  
+    img_car = imread(fullFileName);  
     bbox_car = step(detector_car,img_car);
     detectedImg_car = insertObjectAnnotation(img_car,'rectangle',bbox_car,'car');
-
+    figure; 
+    imshow(detectedImg_car);
 end
 %end of main loop
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%former flow %%%%%%%%%%%%
-
-img_sedan = img;
-img_hb = img;
-img_van = img;
-img_suv = img;
-img_front = img;
-
-% Detect a car 
-bbox_front = step(detector_front,img_front);
-
-%bbox_sedan = step(detector_sedan,img_sedan);
-%bbox_suv = step(detector_suv,img_suv);
-%bbox_hb = step(detector_hb,img_hb);
-%bbox_van = step(detector_van,img_van);
-
-
 %%
-% Insert bounding box rectangles and return the marked image.
-detectedImg_front = insertObjectAnnotation(img_suv,'rectangle',bbox_front,'front');
 
- %detectedImg_sedan = insertObjectAnnotation(img_sedan,'rectangle',bbox_sedan,'sedan');
- %detectedImg_suv = insertObjectAnnotation(img_suv,'rectangle',bbox_suv,'suv'); 
- %detectedImg_hb = insertObjectAnnotation(img_hb,'rectangle',bbox_hb,'hb');
- %detectedImg_van = insertObjectAnnotation(img_van,'rectangle',bbox_van,'van');
- 
-%%
-% Display the detected stop sign.
-figure; 
+rmpath(TestImagesFolder); % Remove the image directory from the path.
 
-imshow(detectedImg_front);
-%imshow(detectedImg_sedan);
-%imshow(detectedImg_suv);
-%imshow(detectedImg_hb);
-%imshow(detectedImg_van);
-%
-%%
-% Remove the image directory from the path.
-rmpath(imDir); 
+%% Function definition
+
+function CarTypeSelectMenu()
+    
+end
