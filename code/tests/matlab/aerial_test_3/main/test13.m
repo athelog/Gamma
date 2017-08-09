@@ -11,9 +11,25 @@ load('far_top_labelingSession.mat');
 %suv/truck
 load('truck_front_close_top_labelingSession.mat');
 
+global positiveInstances_sedan_top_close;
+positiveInstances_sedan_top_close = sedan_top_close(:,1:2);
+
 %% menu
 
-TrainingType = txtmenu('Choose training type (distance)','Close','Medium','Far');
+TrainingType = txtmenu('Choose CAR training type (distance)','Close','Medium','Far');
+%fprintf(1, 'Training selected %i\n', TrainingType);%debug
+
+if TrainingType == 0
+    
+    %Car_Sedan_Top_Close_Training();
+    
+end
+
+
+    load('..\labelling\vehicles\sedan_top_close.mat'); %load labelling session    
+    trainCascadeObjectDetector('sedan_top_close.xml',positiveInstances_sedan_top_close, ... %training call
+        negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
+
 
 %%
 % Select the bounding boxes for stop signs from the table.
@@ -81,12 +97,10 @@ rmpath(TestImagesFolder); % Remove the image directory from the path.
 %% Function definition
 
 %function
-function o = Car_Close_Training()
+function o = Car_Sedan_Top_Close_Training()
 
-    load('close_top_labelingSession.mat'); %load labelling session
-    positiveInstances_top = close(:,1:2);
-    
-    trainCascadeObjectDetector('close.xml',positiveInstances_top, ... %training call
+    load('..\labelling\vehicles\sedan_top_close.mat'); %load labelling session    
+    trainCascadeObjectDetector('sedan_top_close.xml',positiveInstances_sedan_top_close, ... %training call
         negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
     
 end
