@@ -2,15 +2,15 @@
 % Load the positive samples data from a MAT file. The file contains
 % a table specifying bounding boxes for several object categories.
 % The table was exported from the Training Image Labeler app.
-%% Load car positive samples, labelling session.
+%% Load image folders
 
-% Sedan top 
-load('far_top_labelingSession.mat');
+%negatives
+global negativeImages;
 
+negativeFolder_nocar = 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\car_negative_images\';
+negativeImages = imageDatastore(negativeFolder_nocar);%
 
-%suv/truck
-load('truck_front_close_top_labelingSession.mat');
-
+%positives
 global positiveInstances_sedan_top_close;
 positiveInstances_sedan_top_close = sedan_top_close(:,1:2);
 
@@ -21,14 +21,10 @@ TrainingType = txtmenu('Choose CAR training type (distance)','Close','Medium','F
 
 if TrainingType == 0
     
-    %Car_Sedan_Top_Close_Training();
+    Car_Sedan_Top_Close_Training();
     
 end
 
-
-    load('..\labelling\vehicles\sedan_top_close.mat'); %load labelling session    
-    trainCascadeObjectDetector('sedan_top_close.xml',positiveInstances_sedan_top_close, ... %training call
-        negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
 
 
 %%
@@ -96,8 +92,24 @@ rmpath(TestImagesFolder); % Remove the image directory from the path.
 
 %% Function definition
 
-%function
+%function to train Car Sedan Top Close detector
 function o = Car_Sedan_Top_Close_Training()
+
+    global positiveInstances_sedan_top_close;
+    global negativeImages;
+
+    load('..\labelling\vehicles\sedan_top_close.mat'); %load labelling session    
+    trainCascadeObjectDetector('sedan_top_close.xml',positiveInstances_sedan_top_close, ... %training call
+        negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
+    
+end
+%eof
+
+%function to train Car Sedan Top Medium detector
+function o = Car_Sedan_Top_Medium_Training()
+
+    global positiveInstances_sedan_top_medium;
+    global negativeImages;
 
     load('..\labelling\vehicles\sedan_top_close.mat'); %load labelling session    
     trainCascadeObjectDetector('sedan_top_close.xml',positiveInstances_sedan_top_close, ... %training call
