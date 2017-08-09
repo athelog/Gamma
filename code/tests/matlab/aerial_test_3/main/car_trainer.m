@@ -83,14 +83,6 @@ negativeImages = imageDatastore(negativeFolder_nocar);%
  %   negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
 
 
-
-%%
-% Use the newly trained classifier to detect a stop sign in an image.
-%detector_car = vision.CascadeObjectDetector('far.xml'); % top
-%detector_car = vision.CascadeObjectDetector('close.xml'); % top
-
-
-
 %%
 
 rmpath(TestImagesFolder); % Remove the image directory from the path.
