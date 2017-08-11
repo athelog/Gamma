@@ -13,22 +13,25 @@ negativeImages = imageDatastore(negativeFolder_nocar);%
 %positives
 global positiveInstances_sedan_top_close;
 global positiveInstances_sedan_top_medium;
-positiveInstances_sedan_top_close = sedan_top_close(:,1:2);
-positiveInstances_sedan_top_medium = sedan_top_medium(:,1:2);
-
+global positiveInstances_all_top_close;
+%positiveInstances_sedan_top_close = sedan_top_close(:,1:2);
+%positiveInstances_sedan_top_medium = sedan_top_medium(:,1:2);
+positiveInstances_all_top_close = all_top_close(:,1:2);
 
 
 %% menu
 
-TrainingType = txtmenu('Choose CAR training type (distance)','Close','Medium','Far');
+TrainingType = txtmenu('Choose CAR training type (distance)','Close','Medium','Far','Close(all cars)');
 %fprintf(1, 'Training selected %i\n', TrainingType);%debug
 
-if TrainingType == 0
-    
+if TrainingType == 0    
     Car_Sedan_Top_Close_Training();
-elseif TrainingType == 1    
     
+elseif TrainingType == 1  
     Car_Sedan_Top_Medium_Training();
+    
+elseif TrainingType == 3    
+    Car_All_Top_Close_Training();
 end
 
 
@@ -73,16 +76,6 @@ end
    % 'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\van_top_view.png',...
     %'E:\BUSSINESS\Athelog\Gamma\Gamma\code\tests\media\car_pictures\top_without_background\car_hatchback_top_view.png'});%
 
-negativeImages = imageDatastore(negativeFolder_nocar);%
-%%
-% Train a cascade object detector called 'stopSignDetector.xml'
-% using HOG features.
-% NOTE: The command can take several minutes to run.
-
-%trainCascadeObjectDetector('far.xml',positiveInstances_top, ...
- %   negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
-
-
 %%
 
 rmpath(TestImagesFolder); % Remove the image directory from the path.
@@ -116,4 +109,15 @@ function o = Car_Sedan_Top_Medium_Training()
 end
 %eof
 
+%function to train Car All Top Close detector
+function o = Car_All_Top_Close_Training()
 
+    global positiveInstances_all_top_close;
+    global negativeImages;
+
+    load('..\labelling\vehicles\all_top_close.mat'); %load labelling session    
+    trainCascadeObjectDetector('all_top_close.xml',positiveInstances_all_top_close, ... %training call
+        negativeImages,'FalseAlarmRate',0.15,'NumCascadeStages',11); %
+    
+end
+%eof
