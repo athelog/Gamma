@@ -1,0 +1,407 @@
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.apk
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android-Signed.apk
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csproj.CoreCompileInputs.cache
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.MainPage.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.App.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\android\bin\CloudCakes.Android.apk
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\res\drawable\icon.png
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\res\values\styles.xml
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\R.cs.flag
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\uploadflags.txt
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\android\assets\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csprojResolveAssemblyReference.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android-Signed.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csprojResolveAssemblyReference.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csproj.CoreCompileInputs.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.MainPage.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.App.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\android\bin\CloudCakes.Android.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\res\drawable\icon.png
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\res\values\styles.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\R.cs.flag
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\uploadflags.txt
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\android\assets\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csprojResolveAssemblyReference.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csproj.CoreCompileInputs.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.MainPage.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.App.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\res\drawable\icon.png
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\res\values\styles.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\R.cs.flag
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\uploadflags.txt
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp-Signed.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Auth0.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 2\CloudCakes\CloudCakes.Android\obj\Release\android\bin\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csprojResolveAssemblyReference.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csproj.CoreCompileInputs.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.MainPage.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.App.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp-Signed.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Auth0.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\android\bin\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\res\drawable\icon.png
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\res\values\styles.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\R.cs.flag
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\uploadflags.txt
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\android\assets\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 3\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp-Signed.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Auth0.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csproj.CoreCompileInputs.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.MainPage.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.App.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\android\bin\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\res\drawable\icon.png
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\res\values\styles.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\R.cs.flag
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\uploadflags.txt
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\res\layout\main.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\res\values\strings.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csprojResolveAssemblyReference.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\android\assets\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 4\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csprojResolveAssemblyReference.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csproj.CoreCompileInputs.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.MainPage.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.App.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp-Signed.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Auth0.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\android\bin\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\res\layout\main.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\res\drawable\icon.png
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\res\values\styles.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\res\values\strings.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\R.cs.flag
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\uploadflags.txt
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\android\assets\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 5\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\athelog.net.roloapp-Signed.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Auth0.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\IdentityModel.OidcClient.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csprojResolveAssemblyReference.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.csproj.CoreCompileInputs.cache
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.MainPage.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Droid.App.xaml.g.cs
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.dll
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\CloudCakes.Android.pdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\android\bin\athelog.net.roloapp.apk
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\res\layout\main.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\res\drawable\icon.png
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\res\values\styles.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\res\values\strings.xml
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\R.cs.flag
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\uploadflags.txt
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\bin\Release\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\android\assets\CloudCakes.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\RVQ\source\repos\CloudCakes - copia - 6\CloudCakes\CloudCakes.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
